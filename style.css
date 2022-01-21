@@ -1,0 +1,52 @@
+/* Age Calculator area css start */
+.age_wrappwr{
+    width: 600px;
+    margin: 200px auto;
+    
+}
+
+h1.mizan {
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    margin-bottom: -17px;
+}
+
+h1.age.alert {
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    margin-top: -15px;
+}
+
+.age-counter{
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    vertical-align: middle;
+}
+.result{
+    background: #518428;
+    color: #fff;
+}
+.counter {
+    color: #000;
+    font-size: 20px;
+    background: #EEEEEE;
+    margin-top: -15px;
+}
+
+/* Age Calculator area css end */
+
+/* Product area css start */
+.card.procuct-add-box{
+    display: none;
+}
+
+
+/* Product area css end */
+
+
+.card.member_add_box{
+    display: none;
+}
